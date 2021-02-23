@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "지리산 그곳에 가면.."
+categories: [ 나의 그림들 ]
+image: assets/images/myworks/DSCF2405_copy.jpg
+tags: [작품, 지리산, 일출]
+---
+
+2011. 유화 지리산 일
+![walking]({{ site.baseurl }}/assets/images/myworks/DSCF2405_copy.jpg)
+![walking]({{ site.baseurl }}/assets/images/myworks/DSCF2407.jpg)
+![walking]({{ site.baseurl }}/assets/images/myworks/DSCF2408.jpg)
