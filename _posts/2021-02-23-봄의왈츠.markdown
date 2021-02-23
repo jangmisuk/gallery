@@ -5,4 +5,3 @@ categories: [ 나의 그림들 ]
 image: assets/images/myworks/작품2.jpg
 tags: [작품, 봄]
 ---
-![walking]({{ site.baseurl }}/assets/images/myworks/작품2.jpg)
