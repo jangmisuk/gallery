@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Picture Title : 봄의 왈츠"
+title:  "봄의 왈츠"
 categories: [ 나의 그림들 ]
 image: assets/images/myworks/작품2.jpg
 tags: [작품, 봄]
