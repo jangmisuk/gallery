@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "탐하지 않는 아름다움"
+categories: [ 나의 그림들 ]
+image: assets/images/myworks/탐하지않는아름다움.jpg
+tags: [작품, 갤러리]
+---
