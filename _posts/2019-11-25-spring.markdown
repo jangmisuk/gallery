@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "spring"
+categories: [ 나의 그림들 ]
+image: assets/images/myworks/spring.jpg
+tags: [작품, 갤러리]
+---
